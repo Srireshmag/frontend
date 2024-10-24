@@ -133,9 +133,9 @@ span{
 p{
     margin-left: 20px;
 }
-#buttons-two{
+/* #buttons-two{ */
     /* padding-bottom: 10px; */
-}
+
 
 .products-grid {
     gap: 30px;
@@ -183,9 +183,9 @@ p{
     overflow: hidden;
     text-overflow: ellipsis;
 }
-.card-footer {
+/* .card-footer { */
     /* border-top: 1px solid #ddd; */
-}
+
 .card-footer button {
     background-color: #333;
     color: #fff;
